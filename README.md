@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CavidAhmadov
 - 👀 I’m interested in programming and game design 
-- 🌱 I’m currently learning C++,BLENDER
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @cahmedzade37@gmail.com
 - 😄 Pronouns: ...
