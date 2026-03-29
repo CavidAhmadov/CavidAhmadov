@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @CavidAhmadov
-- 👀 I’m interested in programming and game design 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @cahmedzade37@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+As a third-year Computer Engineering student, I am deeply focused on the evolving landscape of Artificial Intelligence. I am currently honing my expertise in Machine Learning and Deep Learning, aiming to bridge the gap between theoretical algorithms and real-world applications.
 
 <!---
 CavidAhmadov/CavidAhmadov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
